@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/samplescene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: b66b0d3955bf8e642bb7fb2911345938
+  - enabled: 1
+    path: Assets/Scenes/Main Scene.unity
+    guid: 1f2fd7304961e4e48b4a54d74068e083
+  - enabled: 1
+    path: Assets/Scenes/Cave Map.unity
+    guid: 62ae73e626214f54cb4500160f8197e2
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelector.unity
+    guid: 1b32dae946049734883a3bbeb779fa33
+  - enabled: 1
+    path: Assets/Scenes/AIScene.unity
+    guid: 95a3b19f3b6d6ba4198d0d54adb03b2b
+  m_configObjects: {}
