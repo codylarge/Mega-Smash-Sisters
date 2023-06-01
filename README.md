@@ -9,4 +9,4 @@ definitely not super smash bros
  - [Rishabh Jain](https://github.com/Rishabhja101)
  - [Kyle Mumma](https://github.com/kylemumma)
  - [Hadi Tarhini](https://github.com/supposedly)
- - Cody Large
+ - [Cody Large](https://github.com/codylarge)
